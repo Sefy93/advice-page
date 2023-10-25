@@ -1,0 +1,9 @@
+@media (max-width:375px){
+    .container{
+        width: 95%;
+    }
+
+    .divider{
+        width: 90%;
+    }
+}
